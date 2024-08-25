@@ -1,0 +1,11 @@
+.searchContainer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+  }
+  .searchSpan {
+    align-self: center;
+    margin: 15px;
+    font-size: 18px;
+    font-weight: 600;
+  }

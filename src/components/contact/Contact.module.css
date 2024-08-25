@@ -1,0 +1,28 @@
+.contactStyle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid black;
+    border-radius: 4px;
+    margin-top: 15px;
+    padding: 8px;
+  }
+  
+  .textContainer {
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  
+  .textStyle {
+    margin: 0;
+  }
+  
+  .svg {
+    margin-right: 5px;
+    vertical-align: middle;
+  }
+  
+  .deleteButton {
+    padding: 8px;
+  }
